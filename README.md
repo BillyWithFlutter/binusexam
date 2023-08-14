@@ -1,17 +1,4 @@
-# binusexam
+![Screenshot 2023-08-14 at 12 05 05](https://github.com/BillyWithFlutter/binusexam/assets/100205589/59997c2e-2b8c-4e10-b840-bc343cffc203)
+![Screenshot 2023-08-14 at 12 05 10](https://github.com/BillyWithFlutter/binusexam/assets/100205589/7881c14e-1ab2-4caa-b2a0-f13e7f304470)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# binusexam
